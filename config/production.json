@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "secretwebtoken",
+    "githubclientId": "bf355af2dfd150751e77",
+    "githubclientSecret":"297d666dd0bf54db3723efe8656d6ad04c5a4f88",
+    "mongoURI":"mongodb+srv://saral123:saral123@devconnect.s6ku3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
